@@ -10,14 +10,14 @@ Simple calculator API hosted on APIMATIC
 Run the following command from your project directory to install the package from npm:
 
 ```ts
-npm install @apimatic/test-typescript-sdk@1.1.2
+npm install @apimatic_test/test-typescript-sdk@1.1.3
 ```
 
-For additional package details, see the [Npm page for the @apimatic/test-typescript-sdk@1.1.2 npm](https://www.npmjs.com/package/@apimatic/test-typescript-sdk/v/1.1.2).
+For additional package details, see the [Npm page for the @apimatic_test/test-typescript-sdk@1.1.3 npm](https://www.npmjs.com/package/@apimatic_test/test-typescript-sdk/v/1.1.3).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.2/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -60,10 +60,10 @@ const client = new Client({
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.2/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.3/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.2/doc/api-response.md)
-* [ApiError](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.2/doc/api-error.md)
+* [ApiResponse](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.3/doc/api-response.md)
+* [ApiError](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.3/doc/api-error.md)
 
