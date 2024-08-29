@@ -10,20 +10,20 @@ Simple calculator API hosted on APIMATIC
 Run the following command from your project directory to install the package from npm:
 
 ```ts
-npm install @apimatic_test/test-typescript-sdk@1.1.5
+npm install apimatic_testtest-typescript-sdk@01.02.04
 ```
 
-For additional package details, see the [Npm page for the @apimatic_test/test-typescript-sdk@1.1.5 npm](https://www.npmjs.com/package/@apimatic_test/test-typescript-sdk/v/1.1.5).
+For additional package details, see the [Npm page for the apimatic_testtest-typescript-sdk@01.02.04 npm](https://www.npmjs.com/package/apimatic_testtest-typescript-sdk/v/01.02.04).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.5/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/01.02.04/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
 | Parameter | Type | Description |
 |  --- | --- | --- |
-| `environment` | Environment | The API environment. <br> **Default: `Environment.Production`** |
+| `environment` | `Environment` | The API environment. <br> **Default: `Environment.Production`** |
 | `timeout` | `number` | Timeout for API calls.<br>*Default*: `0` |
 | `httpClientOptions` | `Partial<HttpClientOptions>` | Stable configurable http client options. |
 | `unstableHttpClientOptions` | `any` | Unstable configurable http client options. |
@@ -60,10 +60,10 @@ const client = new Client({
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.5/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/01.02.04/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.5/doc/api-response.md)
-* [ApiError](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/1.1.5/doc/api-error.md)
+* [ApiResponse](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/01.02.04/doc/api-response.md)
+* [ApiError](https://www.github.com/Syed-Subtain/test-typescript-js-sdk/tree/01.02.04/doc/api-error.md)
 

@@ -19,4 +19,6 @@ export enum OperationTypeEnum {
 /**
  * Schema for OperationTypeEnum
  */
-export const operationTypeEnumSchema: Schema<OperationTypeEnum> = stringEnum(OperationTypeEnum);
+export const operationTypeEnumSchema: Schema<OperationTypeEnum> = stringEnum(
+  OperationTypeEnum
+);
