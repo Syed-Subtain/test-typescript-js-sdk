@@ -1,5 +1,5 @@
 {
-  "version": "01.02.04",
+  "version": "2.23.26",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/cjs/index.js",
